@@ -1,0 +1,14 @@
+body{
+  background-color: #FFE180;
+  max-width: 100%;
+}
+
+.slogan{
+  text-align: center;
+  color: white;
+  font-size: 6em;
+  text-shadow:  0px 0px 1px #000;
+}
+.highlight{
+  color: orange;
+}
